@@ -82,11 +82,11 @@ export default class PlayScreen extends React.Component {
                         {this.state.lyrics}
                     </div>
                     <div className="footer">
-                        <h1 className="playlogo">MUSICDER</h1> <br />
-                        <a className="atextdec" href={`https://github.com/cachecleanerjeet`}>
-                            <p className="playparagone" >An Open Source Project by Tuhin</p>
+                        <h1 className="playlogo">Audio Sphere</h1> <br />
+                        <a className="atextdec" href={`https://github.com/Vansh186`}>
+                            <p className="playparagone" >An Open Source Project by VD Inc.</p>
                         </a><br />
-                        <a href={`https://github.com/cachecleanerjeet/Musicder`}>
+                        <a href={`https://github.com/Vansh186/Audio-Sphere`}>
                             <img alt="Github" className="center" src="../img/github-black.svg" width="30" height="30" /><br />
                         </a>
                     </div>
